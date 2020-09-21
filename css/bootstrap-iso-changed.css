@@ -560,20 +560,20 @@
 .bootstrap-iso .col-12,
 .bootstrap-iso .col,
 .bootstrap-iso .col-auto,
-.bootstrap-iso .col-sm-1,
-.bootstrap-iso .col-sm-2,
-.bootstrap-iso .col-sm-3,
-.bootstrap-iso .col-sm-4,
-.bootstrap-iso .col-sm-5,
-.bootstrap-iso .col-sm-6,
-.bootstrap-iso .col-sm-7,
-.bootstrap-iso .col-sm-8,
-.bootstrap-iso .col-sm-9,
-.bootstrap-iso .col-sm-10,
-.bootstrap-iso .col-sm-11,
-.bootstrap-iso .col-sm-12,
-.bootstrap-iso .col-sm,
-.bootstrap-iso .col-sm-auto,
+.bootstrap-iso .col-small-1,
+.bootstrap-iso .col-small-2,
+.bootstrap-iso .col-small-3,
+.bootstrap-iso .col-small-4,
+.bootstrap-iso .col-small-5,
+.bootstrap-iso .col-small-6,
+.bootstrap-iso .col-small-7,
+.bootstrap-iso .col-small-8,
+.bootstrap-iso .col-small-9,
+.bootstrap-iso .col-small-10,
+.bootstrap-iso .col-small-11,
+.bootstrap-iso .col-small-12,
+.bootstrap-iso .col-small,
+.bootstrap-iso .col-small-auto,
 .bootstrap-iso .col-md-1,
 .bootstrap-iso .col-md-2,
 .bootstrap-iso .col-md-3,
@@ -588,20 +588,20 @@
 .bootstrap-iso .col-md-12,
 .bootstrap-iso .col-md,
 .bootstrap-iso .col-md-auto,
-.bootstrap-iso .col-lg-1,
-.bootstrap-iso .col-lg-2,
-.bootstrap-iso .col-lg-3,
-.bootstrap-iso .col-lg-4,
-.bootstrap-iso .col-lg-5,
-.bootstrap-iso .col-lg-6,
-.bootstrap-iso .col-lg-7,
-.bootstrap-iso .col-lg-8,
-.bootstrap-iso .col-lg-9,
-.bootstrap-iso .col-lg-10,
-.bootstrap-iso .col-lg-11,
-.bootstrap-iso .col-lg-12,
-.bootstrap-iso .col-lg,
-.bootstrap-iso .col-lg-auto,
+.bootstrap-iso .col-large-1,
+.bootstrap-iso .col-large-2,
+.bootstrap-iso .col-large-3,
+.bootstrap-iso .col-large-4,
+.bootstrap-iso .col-large-5,
+.bootstrap-iso .col-large-6,
+.bootstrap-iso .col-large-7,
+.bootstrap-iso .col-large-8,
+.bootstrap-iso .col-large-9,
+.bootstrap-iso .col-large-10,
+.bootstrap-iso .col-large-11,
+.bootstrap-iso .col-large-12,
+.bootstrap-iso .col-large,
+.bootstrap-iso .col-large-auto,
 .bootstrap-iso .col-xl-1,
 .bootstrap-iso .col-xl-2,
 .bootstrap-iso .col-xl-3,
@@ -818,7 +818,7 @@
   margin-left: 91.666667%;
 }
 @media (min-width: 576px) {
-  .bootstrap-iso .col-sm {
+  .bootstrap-iso .col-small {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
     -webkit-box-flex: 1;
@@ -826,80 +826,80 @@
     flex-grow: 1;
     max-width: 100%;
   }
-  .bootstrap-iso .col-sm-auto {
+  .bootstrap-iso .col-small-auto {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
     width: auto;
     max-width: none;
   }
-  .bootstrap-iso .col-sm-1 {
+  .bootstrap-iso .col-small-1 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 8.333333%;
     flex: 0 0 8.333333%;
     max-width: 8.333333%;
   }
-  .bootstrap-iso .col-sm-2 {
+  .bootstrap-iso .col-small-2 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 16.666667%;
     flex: 0 0 16.666667%;
     max-width: 16.666667%;
   }
-  .bootstrap-iso .col-sm-3 {
+  .bootstrap-iso .col-small-3 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
     max-width: 25%;
   }
-  .bootstrap-iso .col-sm-4 {
+  .bootstrap-iso .col-small-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33.333333%;
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
   }
-  .bootstrap-iso .col-sm-5 {
+  .bootstrap-iso .col-small-5 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 41.666667%;
     flex: 0 0 41.666667%;
     max-width: 41.666667%;
   }
-  .bootstrap-iso .col-sm-6 {
+  .bootstrap-iso .col-small-6 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
     max-width: 50%;
   }
-  .bootstrap-iso .col-sm-7 {
+  .bootstrap-iso .col-small-7 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 58.333333%;
     flex: 0 0 58.333333%;
     max-width: 58.333333%;
   }
-  .bootstrap-iso .col-sm-8 {
+  .bootstrap-iso .col-small-8 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
   }
-  .bootstrap-iso .col-sm-9 {
+  .bootstrap-iso .col-small-9 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 75%;
     flex: 0 0 75%;
     max-width: 75%;
   }
-  .bootstrap-iso .col-sm-10 {
+  .bootstrap-iso .col-small-10 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 83.333333%;
     flex: 0 0 83.333333%;
     max-width: 83.333333%;
   }
-  .bootstrap-iso .col-sm-11 {
+  .bootstrap-iso .col-small-11 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 91.666667%;
     flex: 0 0 91.666667%;
     max-width: 91.666667%;
   }
-  .bootstrap-iso .col-sm-12 {
+  .bootstrap-iso .col-small-12 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
@@ -1218,7 +1218,7 @@
   }
 }
 @media (min-width: 992px) {
-  .bootstrap-iso .col-lg {
+  .bootstrap-iso .col-large {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
     -webkit-box-flex: 1;
@@ -1226,80 +1226,80 @@
     flex-grow: 1;
     max-width: 100%;
   }
-  .bootstrap-iso .col-lg-auto {
+  .bootstrap-iso .col-large-auto {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
     width: auto;
     max-width: none;
   }
-  .bootstrap-iso .col-lg-1 {
+  .bootstrap-iso .col-large-1 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 8.333333%;
     flex: 0 0 8.333333%;
     max-width: 8.333333%;
   }
-  .bootstrap-iso .col-lg-2 {
+  .bootstrap-iso .col-large-2 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 16.666667%;
     flex: 0 0 16.666667%;
     max-width: 16.666667%;
   }
-  .bootstrap-iso .col-lg-3 {
+  .bootstrap-iso .col-large-3 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
     max-width: 25%;
   }
-  .bootstrap-iso .col-lg-4 {
+  .bootstrap-iso .col-large-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 33.333333%;
     flex: 0 0 33.333333%;
     max-width: 33.333333%;
   }
-  .bootstrap-iso .col-lg-5 {
+  .bootstrap-iso .col-large-5 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 41.666667%;
     flex: 0 0 41.666667%;
     max-width: 41.666667%;
   }
-  .bootstrap-iso .col-lg-6 {
+  .bootstrap-iso .col-large-6 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
     max-width: 50%;
   }
-  .bootstrap-iso .col-lg-7 {
+  .bootstrap-iso .col-large-7 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 58.333333%;
     flex: 0 0 58.333333%;
     max-width: 58.333333%;
   }
-  .bootstrap-iso .col-lg-8 {
+  .bootstrap-iso .col-large-8 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 66.666667%;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
   }
-  .bootstrap-iso .col-lg-9 {
+  .bootstrap-iso .col-large-9 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 75%;
     flex: 0 0 75%;
     max-width: 75%;
   }
-  .bootstrap-iso .col-lg-10 {
+  .bootstrap-iso .col-large-10 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 83.333333%;
     flex: 0 0 83.333333%;
     max-width: 83.333333%;
   }
-  .bootstrap-iso .col-lg-11 {
+  .bootstrap-iso .col-large-11 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 91.666667%;
     flex: 0 0 91.666667%;
     max-width: 91.666667%;
   }
-  .bootstrap-iso .col-lg-12 {
+  .bootstrap-iso .col-large-12 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
